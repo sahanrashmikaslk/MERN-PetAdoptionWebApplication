@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 - **Frontend**
   - React.js
   - Redux (for state management)
-  - Bootstrap (for styling)
+  - Material UI (for styling)
 - **Backend**
   - Node.js
   - Express.js
@@ -65,7 +65,6 @@ To run this project locally, follow these steps:
   - JSON Web Tokens (JWT)
 - **Others**
   - Axios (for making HTTP requests)
-  - Cloudinary (for image uploading)
 
 ## Acknowledgments
 
